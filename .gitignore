@@ -1,0 +1,6 @@
+*.pdf
+*.png
+*.svg
+__pycache__/
+data/complete.json
+data/hsk_hanzi.txt
